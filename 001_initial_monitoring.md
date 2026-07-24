@@ -4,7 +4,7 @@
 
 # NS-Monitor
 
-### Weekly Operational Report — Week 1
+### Weekly Operational Report — Week 2
 
 **Maritime Geo-Risk Intelligence · North Sea Basin**
 
