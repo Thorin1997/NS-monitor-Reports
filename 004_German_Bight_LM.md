@@ -10,6 +10,21 @@
 
 Ergebnisse von drei aufeinanderfolgenden longitudinalen nächtlichen maritimen Überwachungen in der deutschen AWZ
 
+| | |
+|---|---|
+| **Report number** | Research Report 004 |
+| **Publication date** | 31 August 2026 |
+| **Focus** | German EEZ -- Longitudinal Monitoring |
+| **Object** | Assess maritime activity around subsea infrastructure |
+| **Coverage area** | German Bight |
+| **Monitoring periods** | 27-28 July 2026, 03-04 August 2026, 17-18 August 2026 |
+| **Daily observation window** | 2030/2130Z |
+
+---
+
+</div>
+
+
 ## Executive Summary
 
 Three consecutive longitudinal nighttime maritime monitoring surveys in the German EEZ provided an interesting picture of vessel activity around offshore infrastructure.
