@@ -1,6 +1,6 @@
 <div align="center">
 
-![NS-Monitor Logo](./Logo_report.png)
+![NS-Monitor Logo](./images/Logo_report.png)
 
 # NS-Monitor
 
@@ -22,4 +22,4 @@ These results are based on three nighttime monitoring campaigns. They should the
   
 A relatively simple dataset, but one that raises interesting questions about how vessel activity is distributed around different types of offshore infrastructure — and what factors may explain these patterns.
 
-![DE_EEZ_PLOT](./DE_EEZ_PLOT.png)
+![DE_EEZ_PLOT](./images/DE_EEZ_PLOT.png)
