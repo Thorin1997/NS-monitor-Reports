@@ -1,6 +1,6 @@
 <div align="center">
 
-![NS-Monitor Logo](./Logo_report.png)
+![NS-Monitor Logo](./images/Logo_report.png)
 
 # NS-Monitor
 
