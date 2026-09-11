@@ -18,7 +18,7 @@ Ergebnisse von zwei longitudinalen maritimen Überwachungen in zwei verschiedene
 | **Object** | Assess maritime activity around subsea infrastructure |
 | **Coverage area** | German Bight |
 | **Monitoring periods** | 31 August - 3 September 2026, 7-9 September 2026 |
-| **Daily observation window** | 1800/1900Z, 1800/1900Z |
+| **Daily observation window** | 1800/1900Z, 1600/1700Z |
 
 ---
 
