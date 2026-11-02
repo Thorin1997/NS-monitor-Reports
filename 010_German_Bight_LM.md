@@ -65,7 +65,7 @@ The identification of repeated movements in proximity to subsea infrastructure d
 
 NS-Monitor provides an AIS-based approach to monitoring vessel proximity around subsea infrastructure in the German Bight. These preliminary findings provide a basis for further longitudinal analysis.
 
-![Octgraphs](./images/Octgraphs.jng)
+![Octgraphs](./images/Octgraphs.jpg)
 
 ---
 
