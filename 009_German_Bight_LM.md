@@ -20,7 +20,7 @@ Single-Vessel - Longitudinal Monitoring
 | **Coverage area** | German Bight |
 | **Monitoring period** | 01-02 October 2026 |
 | **Vessel MMSI** | Bahamas |
-| **Vessel type according to Kpler** | Other / Utility Vessel |
+| **Vessel type according to Marine Traffic** | Other / Utility Vessel |
 
 ---
 
@@ -29,7 +29,7 @@ Single-Vessel - Longitudinal Monitoring
 ## 1. Introduction
 
 NS-Monitor has been adapted to support longitudinal monitoring of individual vessels operating in areas of interest. Rather than assessing broader maritime traffic patterns, this monitoring approach focuses on identifying and documenting repeated vessel activity over a defined period, particularly where movements occur in proximity to critical maritime infrastructure.
-This report focuses on MMSI Bahamas, which Kpler identifies as an Other | Utility Vessel. The vessel was monitored on four separate occasions between 01 and 02 October 2026 within the German Bight, allowing assessment of its activity and movement pattern over a short longitudinal observation period.
+This report focuses on MMSI Bahamas, which Marine Traffic identifies as an Other | Utility Vessel. The vessel was monitored on four separate occasions between 01 and 02 October 2026 within the German Bight, allowing assessment of its activity and movement pattern over a short longitudinal observation period.
 
 ---
 
@@ -73,7 +73,7 @@ Vessel identification and vessel-type information may vary between AIS-derived s
 
 ## 5. Conclusion
 
-MMSI Bahamas, identified by Kpler as an Other | Utility Vessel, was monitored on four separate occasions between 01 and 02 October 2026 within the German Bight.
+MMSI Bahamas, identified by Marine Traffic as an Other | Utility Vessel, was monitored on four separate occasions between 01 and 02 October 2026 within the German Bight.
 The repeated low-speed activity observed over the two days provides a basis for continued longitudinal monitoring of the vessel. At present, the available observations document a recurring presence and low-speed movement pattern but do not, in isolation, establish suspicious or malicious activity.
 Further monitoring would help determine whether the observed behaviour is part of a consistent operational pattern and provide additional context for assessing the vessel's activity in relation to the surrounding infrastructure.
 
